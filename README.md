@@ -9,7 +9,6 @@ Web developer dari Tegal. Saya membangun aplikasi web yang mengurus pesanan, pem
 | **Orenjoy** | Pemesanan restoran lewat QR meja dengan pembayaran QRIS | Laravel 12, MySQL, Midtrans | [Demo](https://orenjoy.web.id/meja/orenjoydemomeja000000001) · [Kode](https://github.com/muhamadandy/orenjoy) |
 | **Sandang** | Toko fashion full-stack dengan pembayaran Midtrans dan panel admin | Next.js 15, TypeScript, Prisma, PostgreSQL | [Demo](https://sandang.vercel.app) · [Kode](https://github.com/muhamadandy/sandang) |
 | **Nalarakyat** | Portal berita dengan panel admin, dibangun saat magang | Laravel 11, Filament 3, MySQL | [Situs](https://nalarakyat.web.id) · [Kode](https://github.com/muhamadandy/nalarakyat) |
-| **Jusa** | Platform e-commerce dengan pembayaran Stripe dan PayPal | Next.js, TypeScript, PostgreSQL | [Demo](https://jusa-gamma.vercel.app/) · [Kode](https://github.com/muhamadandy/jusa) |
 
 Pembayaran pada proyek pribadi berjalan di mode sandbox.
 
